@@ -26,13 +26,13 @@ Built with **Python, SQLite, Scikit-learn, and Streamlit**.
 ## ⚡ Installation & Usage
 
 ### 1️ Clone the Repository
-git clone https://github.com/VedantMPatil10/Book-Recommendation-System.git
-cd Book-Recommendation-System
+-git clone https://github.com/VedantMPatil10/Book-Recommendation-System.git
+-cd Book-Recommendation-System
 
 ### 2️⃣ Create Virtual Environment
-python -m venv .venv
-source .venv/bin/activate   # Linux/Mac
-.venv\Scripts\activate      # Windows
+-python -m venv .venv
+-source .venv/bin/activate   # Linux/Mac
+-.venv\Scripts\activate      # Windows
 
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
@@ -46,12 +46,15 @@ streamlit run app.py
 
 ### Gets top-N personalized recommendations 🎉 
 <img width="1366" height="634" alt="Screenshot 2025-09-27 142039" src="https://github.com/user-attachments/assets/ed153dae-b8fe-4e9e-bee7-a3ad2c343335" />
+
+---
+
 <img width="1366" height="643" alt="Screenshot 2025-09-27 142121" src="https://github.com/user-attachments/assets/efa48263-7b26-4b56-ae0c-51d3b0d3235d" />
 
 ## 📊 Future Improvements
 
-● CLI version for quick testing.
-● Deployment on free cloud (Streamlit Community Cloud / Hugging Face Spaces).
-● Improved evaluation with metrics (RMSE, Precision@k, Recall@k.
-
+- CLI version for quick testing.
+- Deployment on free cloud (Streamlit Community Cloud / Hugging Face Spaces).
+- Improved evaluation with metrics (RMSE, Precision@k, Recall@k.
+---
 ## 👨‍💻 Author: Vedant Patil
