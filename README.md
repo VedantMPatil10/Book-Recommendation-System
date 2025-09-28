@@ -55,6 +55,6 @@ streamlit run app.py
 
 - CLI version for quick testing.
 - Deployment on free cloud (Streamlit Community Cloud / Hugging Face Spaces).
-- Improved evaluation with metrics (RMSE, Precision@k, Recall@k.
+- Improved evaluation with metrics (RMSE, Precision@k, Recall@k).
 ---
 ## 👨‍💻 Author: Vedant Patil
