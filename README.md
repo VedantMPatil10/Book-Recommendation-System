@@ -38,7 +38,7 @@ Built with **Python, SQLite, Scikit-learn, and Streamlit**.
 pip install -r requirements.txt
 
 ### 4️⃣ Run the Streamlit App
-streamlit run app.py
+streamlit run SLitapp.py
 
 ## 🎯 Example Demo
 ### User enters their User ID & Selects a Book Title
