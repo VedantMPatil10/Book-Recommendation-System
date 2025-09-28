@@ -1,4 +1,4 @@
-# 📚 Hybrid Novel Recommendation System
+# 📚  Novel Recommendation System
 
 A project that implements a **Hybrid Recommendation Engine** for novels using **Content-Based Filtering + Collaborative Filtering**.  
 Built with **Python, SQLite, Scikit-learn, and Streamlit**.
@@ -26,13 +26,13 @@ Built with **Python, SQLite, Scikit-learn, and Streamlit**.
 ## ⚡ Installation & Usage
 
 ### 1️ Clone the Repository
--git clone https://github.com/VedantMPatil10/Book-Recommendation-System.git
--cd Book-Recommendation-System
+- git clone https://github.com/VedantMPatil10/Book-Recommendation-System.git
+- cd Book-Recommendation-System
 
 ### 2️⃣ Create Virtual Environment
--python -m venv .venv
--source .venv/bin/activate   # Linux/Mac
--.venv\Scripts\activate      # Windows
+- python -m venv .venv
+- source .venv/bin/activate   # Linux/Mac
+- .venv\Scripts\activate      # Windows
 
 ### 3️⃣ Install Dependencies
 pip install -r requirements.txt
